@@ -49,7 +49,7 @@ class TestQueryImport(object):
         url = conf.get_url()
         url_list = url+args['url_list']
         url_export = url+args['url_export']
-
+#是
         headers = get_Authorization[0]
 
         args['payload']['registerName'] = get_Authorization[1]
