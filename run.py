@@ -20,7 +20,7 @@ if __name__ == '__main__':
     # pytest.main(["-ra", '-v', '-x', '-m=test_send_uncheck_list', '--html=./report/report.html', '--capture=sys'])
     # pytest.main(["-ra", '-v', '-x', '-m test_queryimport', '--html=./report/report.html', '--capture=sys'])
     # pytest.main(["-ra", '-v', '-x', '-m test_send_verified_unpass', '--html=./report/report.html', '--capture=sys'])
-    pytest.main(["-ra", '-v', '-x', '-m test_queryimport_verified', "--html=./report/report.html", '--capture=sys'])
+    pytest.main(["-ra", '-v', '-x', '-k=test_login', '--html=./report/report.html', '--capture=sys'])
 
 
 # import schedule
