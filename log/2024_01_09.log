@@ -1,0 +1,45 @@
+[2024-01-09 10:56:12,289] sendhttp.py->send_http line:30 [ERROR]【FAIL】HTTP请求失败|<Response [502]>
+[2024-01-09 11:42:21,137] test_login.py->test_login line:20 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 11:42:21,137] test_login.py->test_login line:20 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 11:42:21,347] test_login.py->test_login line:34 [INFO]登录使用正确账户及密码用例执行结果：PASS
+[2024-01-09 11:42:21,347] test_login.py->test_login line:34 [INFO]登录使用正确账户及密码用例执行结果：PASS
+[2024-01-09 14:21:48,572] read_config.py->get_env line:62 [ERROR]无对应环境配置sections
+[2024-01-09 14:22:49,251] read_config.py->get_env line:62 [ERROR]无对应环境配置sec
+[2024-01-09 14:24:29,378] read_config.py->get_env line:63 [ERROR]无对应环境配置
+[2024-01-09 14:24:34,871] read_config.py->get_env line:63 [ERROR]无对应环境配置
+[2024-01-09 14:27:52,190] read_config.py->get_env line:63 [ERROR]无对应环境配置
+[2024-01-09 14:30:46,912] read_config.py->get_env line:63 [ERROR]无对应环境配置
+[2024-01-09 16:18:16,427] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:18:16,427] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:21:31,909] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:21:31,909] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:28:17,435] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:28:17,435] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:29:29,133] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:29:29,133] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:29:29,309] sendhttp.py->send_http line:30 [ERROR]【FAIL】HTTP请求失败|<Response [404]>
+[2024-01-09 16:29:29,311] test_login.py->test_login line:34 [ERROR]登录使用正确账户及密码用例执行错误：assert '迟青' in 'None'
+ +  where 'None' = str(None)
+[2024-01-09 16:29:29,311] test_login.py->test_login line:34 [ERROR]登录使用正确账户及密码用例执行错误：assert '迟青' in 'None'
+ +  where 'None' = str(None)
+[2024-01-09 16:30:41,901] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:30:41,901] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:31:21,429] sendhttp.py->send_http line:30 [ERROR]【FAIL】HTTP请求失败|<Response [404]>
+[2024-01-09 16:31:21,434] test_login.py->test_login line:34 [ERROR]登录使用正确账户及密码用例执行错误：assert '迟青' in 'None'
+ +  where 'None' = str(None)
+[2024-01-09 16:31:21,434] test_login.py->test_login line:34 [ERROR]登录使用正确账户及密码用例执行错误：assert '迟青' in 'None'
+ +  where 'None' = str(None)
+[2024-01-09 16:32:07,886] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:32:07,886] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:32:13,945] sendhttp.py->send_http line:30 [ERROR]【FAIL】HTTP请求失败|<Response [404]>
+[2024-01-09 16:32:14,084] test_login.py->test_login line:34 [ERROR]登录使用正确账户及密码用例执行错误：assert '迟青' in 'None'
+ +  where 'None' = str(None)
+[2024-01-09 16:32:14,084] test_login.py->test_login line:34 [ERROR]登录使用正确账户及密码用例执行错误：assert '迟青' in 'None'
+ +  where 'None' = str(None)
+[2024-01-09 16:34:21,744] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:34:21,744] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:34:29,265] sendhttp.py->send_http line:30 [ERROR]【FAIL】HTTP请求失败|<Response [404]>
+[2024-01-09 16:39:47,240] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:39:47,240] test_login.py->test_login line:22 [INFO]开始执行登录第1条用例：登录使用正确账户及密码
+[2024-01-09 16:39:47,438] test_login.py->test_login line:31 [INFO]登录使用正确账户及密码用例执行结果：PASS
+[2024-01-09 16:39:47,438] test_login.py->test_login line:31 [INFO]登录使用正确账户及密码用例执行结果：PASS

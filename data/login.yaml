@@ -1,0 +1,26 @@
+# 用例1：登录成功
+-
+  id : 1
+  interfaceName : 登录使用正确账户及密码
+  payload :
+    username: chiq
+    password: 31dd77765614a665c9df4df0002f41847488f2ffd79875498ab045ab6d2d87a3
+  exceptedresult: 迟青
+#
+## 用例2：用户名不存在
+#-
+#  id : 2
+#  interfaceName : 登录用户名不存在
+#  payload :
+#    username: chiqing
+#    password: 31dd77765614a665c9df4df0002f41847488f2ffd79875498ab045ab6d2d87a3
+#  exceptedresult: 用户名或密码错误！
+#
+## 用例3：密码错误
+#-
+#  id : 3
+#  interfaceName : 登录密码错误
+#  payload :
+#    username: chiq
+#    password: 31dd77765614a665c9df4df0002f41847488f2ffd79875498ab045ab6d2d8111
+#  exceptedresult: 用户名或密码错误！
